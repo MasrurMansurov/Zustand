@@ -1,3 +1,5 @@
+![Zustand bear](https://github.com/user-attachments/assets/e0ca20e6-aa9a-4c8b-9182-4ac37240829e)
+
 # Zustand — Управление состоянием в React
 
 [![npm версия](https://img.shields.io/npm/v/zustand.svg)](https://www.npmjs.com/package/zustand)
