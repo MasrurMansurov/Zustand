@@ -49,7 +49,7 @@ yarn add zustand
 ## Пример базового использования
 Пример использования Zustand в проекте React:
 
-```bash
+```js
 import create from 'zustand';
 
 // Создаем хранилище
